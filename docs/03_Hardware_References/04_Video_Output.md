@@ -24,7 +24,7 @@ Maximum resolution:
 
 You can use this [HDMI to HDMI](http://shop.udoo.org/cable-hdmi-to-hdmi.html) cable to connect to a HDMI display in 4k resolution.
 
-#### USB-C Connectors win DipslayPort Alternate Mode
+#### USB-C Connectors win DisplayPort Alternate Mode
 
 USB 3.1 Port #0 is internally multiplexed by the AMD Ryzen Embedded V100 Processor with Display Port #3, USB 3.1 Port #3 is multiplexed with Display Port #2., i.e. its can be used to support USB-C Displays or DP displays directly and, through an external adapter, also HDMI or DVI displays.  
 The configuration of this interface in DP or HDMI/DVI mode is automatic.
